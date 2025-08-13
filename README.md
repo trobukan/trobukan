@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center">Statistics</h2>
-<div align="center">
+<div>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trobukan&layout=compact&bg_color=f46344ff&text_color=ffffff&title_color=ffffff&hide_border=true&custom_title=Languages" alt="Top Langs" />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=trobukan&show_icons=true&layout=compact&title_color=f46344ff&text_color=f46344ff&custom_title=Status" alt="Status" />
 </div>
