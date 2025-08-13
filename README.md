@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">About</h2>
-<p align="center">
+<p>
   Hallo, I'm João Vitor, I’m 19 years old and passionate about web and game devlopments.<br>
   I’m currently focusing on becoming a <strong>Full-Stack Developer</strong> and mastering <strong>TypeScript</strong> and <strong>Go</strong>.<br>
   I love building projects that combine creativity and functionality, from web apps to game development.<br>
